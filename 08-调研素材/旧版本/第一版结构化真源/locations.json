@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "locations": [
+    {
+      "id": "loc_unknown",
+      "name": "未命名地点",
+      "aliases": [],
+      "description": "用于旁白或未定位的场景占位。"
+    },
+    {
+      "id": "loc_starry_interactive_17f",
+      "name": "星辰互娱（17层办公区）",
+      "aliases": [
+        "星辰互娱十七层"
+      ],
+      "description": "《星际OL》项目组所在楼层。"
+    },
+    {
+      "id": "loc_starry_tower_lobby",
+      "name": "星辰大厦（大厅）",
+      "aliases": [
+        "星辰大厦大厅"
+      ],
+      "description": "星辰互娱所在写字楼的一层大厅与门禁区。"
+    },
+    {
+      "id": "loc_starry_tower_meeting_room_10f_7",
+      "name": "星辰大厦（10楼7号会议室）",
+      "aliases": [
+        "十楼7号会议室"
+      ],
+      "description": "项目组被临时召集开会并宣布裁撤的会议室。"
+    },
+    {
+      "id": "loc_starry_admin_office",
+      "name": "星辰大厦（行政办公室）",
+      "aliases": [
+        "行政办公室"
+      ],
+      "description": "办理离职交接与资料回收的行政办公室。"
+    },
+    {
+      "id": "loc_starry_tower_6f_office",
+      "name": "星辰大厦（6楼办公区）",
+      "aliases": [
+        "六楼",
+        "顾盼公司"
+      ],
+      "description": "顾盼所在公司办公楼层。"
+    },
+    {
+      "id": "loc_future_tech_tower",
+      "name": "未来科技大厦",
+      "aliases": [
+        "未来科技"
+      ],
+      "description": "城市科技地标，对面楼顶有巨型LED广告牌。"
+    },
+    {
+      "id": "loc_future_tech_tower_60f_reception",
+      "name": "未来科技大厦（60楼前台/等候区）",
+      "aliases": [
+        "未来科技六十楼前台",
+        "六十楼等候区"
+      ],
+      "description": "访客登记后等待引导的区域，可俯瞰城市与星辰大厦。"
+    },
+    {
+      "id": "loc_future_tech_tower_50f_meeting_room",
+      "name": "未来科技大厦（50楼会议室）",
+      "aliases": [
+        "五十楼会议室"
+      ],
+      "description": "技术面与制作人面进行的会议室。"
+    },
+    {
+      "id": "loc_future_tech_tower_50f_project_area",
+      "name": "未来科技大厦（50楼项目区）",
+      "aliases": [
+        "五十楼项目区"
+      ],
+      "description": "《皇者大世界》项目组工位区与日常开发现场。"
+    },
+    {
+      "id": "loc_future_tech_tower_50f_meeting_room_3",
+      "name": "未来科技大厦（50楼3号会议室）",
+      "aliases": [
+        "三号会议室"
+      ],
+      "description": "战斗线临时汇报模块进度与风险的会议室。"
+    },
+    {
+      "id": "loc_future_tech_tower_50f_meeting_room_small",
+      "name": "未来科技大厦（50楼小会议室）",
+      "aliases": [
+        "小会房",
+        "小会议室"
+      ],
+      "description": "战斗组临时需求评审使用的小会议室。"
+    },
+    {
+      "id": "loc_future_tech_tower_rooftop",
+      "name": "未来科技大厦天台",
+      "aliases": [
+        "天台"
+      ],
+      "description": "许晋川绩效受挫后短暂失同步的天台。"
+    },
+    {
+      "id": "loc_future_tech_tower_elevator",
+      "name": "未来科技大厦电梯",
+      "aliases": [
+        "电梯"
+      ],
+      "description": "未来科技大厦内部电梯空间。"
+    },
+    {
+      "id": "loc_bookstore",
+      "name": "书店",
+      "aliases": [],
+      "description": "许晋川翻阅《感官奇迹》的书店。"
+    },
+    {
+      "id": "loc_future_tech_tower_canteen",
+      "name": "未来科技园区餐厅",
+      "aliases": [
+        "园区餐厅",
+        "食堂"
+      ],
+      "description": "未来科技园区的用餐区域，员工中午在此吃饭。"
+    },
+    {
+      "id": "loc_bbq_shop_downstairs",
+      "name": "楼下烧烤店",
+      "aliases": [
+        "烧烤店"
+      ],
+      "description": "星辰大厦楼下常去的烧烤店，项目组在此吃散伙饭。"
+    },
+    {
+      "id": "loc_new_mall_simple_meal",
+      "name": "写字楼对面商圈（简餐店）",
+      "aliases": [
+        "新商圈简餐店"
+      ],
+      "description": "星辰大厦对面新开的商圈里一家简餐店，林默与顾盼在此午饭偶遇。"
+    },
+    {
+      "id": "loc_nearby_fast_food_shop",
+      "name": "附近快餐店",
+      "aliases": [
+        "快餐店"
+      ],
+      "description": "林默面试后暂坐等待、随便吃饭的快餐店。"
+    },
+    {
+      "id": "loc_corner_cafe",
+      "name": "街角咖啡店",
+      "aliases": [
+        "咖啡店"
+      ],
+      "description": "林默与顾盼约见喝咖啡的街角小店。"
+    },
+    {
+      "id": "loc_high_end_restaurant",
+      "name": "高层临窗餐厅",
+      "aliases": [
+        "餐厅"
+      ],
+      "description": "江月约林默见面的高档餐厅。"
+    },
+    {
+      "id": "loc_dark_studio",
+      "name": "灯光压得很低的工作室",
+      "aliases": [
+        "工作室"
+      ],
+      "description": "陌生人处理图像与音频的工作室，设备常年待机。"
+    },
+    {
+      "id": "loc_other_city_unknown",
+      "name": "另一座城市（未知地点）",
+      "aliases": [],
+      "description": "音频《窗口》的匿名听众所在城市与位置未明。"
+    },
+    {
+      "id": "loc_starry_interactive_pantry",
+      "name": "星辰互娱（茶水间）",
+      "aliases": [
+        "茶水间"
+      ],
+      "description": "《星际OL》项目组隔间外的茶水间与自动贩卖机区域。"
+    },
+    {
+      "id": "loc_subway_carriage",
+      "name": "地铁车厢",
+      "aliases": [],
+      "description": "林默深夜通勤的地铁车厢。"
+    },
+    {
+      "id": "loc_starry_ops_office",
+      "name": "星辰互娱（运维办公室）",
+      "aliases": [
+        "运维办公室"
+      ],
+      "description": "江月办公地点，墙上有监控屏与资源曲线。"
+    },
+    {
+      "id": "loc_starry_tower_outside_corner",
+      "name": "星辰大厦外侧转角",
+      "aliases": [
+        "工区大厦转角"
+      ],
+      "description": "写字楼外侧的水泥墙转角，林默在此看见水泥缝嫩芽。"
+    },
+    {
+      "id": "loc_linmo_rental",
+      "name": "林默出租屋",
+      "aliases": [
+        "出租屋"
+      ],
+      "description": "林默的居住地。"
+    },
+    {
+      "id": "loc_gupan_home",
+      "name": "顾盼住所",
+      "aliases": [],
+      "description": "顾盼回家后独处翻出旧照片的房间。"
+    }
+  ]
+}

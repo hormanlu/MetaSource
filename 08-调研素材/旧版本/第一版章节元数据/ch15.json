@@ -1,0 +1,68 @@
+{
+  "id": "ch15",
+  "title": "帧落",
+  "summary": "许晋川在电梯里再次遇见天台的保洁老人，对方毫无识别反应，使他回想这些年对“失同步”的追索。随着经验积累，他观察到陈拓在不断揽事时出现轻微迟滞，并提醒其分担；而“老徐”的异常稳定反倒让他不安。2023年书店里《感官奇迹》为他的感知经验提供了部分解释，他将可见的错位命名为“帧落”、更深层称为“失真”，在克制中继续观察。",
+  "scenes": [
+    {
+      "id": "sc15_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_elevator",
+      "characters": [
+        "char_huangzhe_lead_programmer",
+        "char_rooftop_cleaner"
+      ],
+      "beats": [
+        "许晋川在电梯再次遇见保洁老人，对方毫无识别反应",
+        "他回忆天台经历并将老人类比为“扫地僧”"
+      ],
+      "foreshadow": [
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc15_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_huangzhe_lead_programmer",
+        "char_chentuo",
+        "char_xuzhiyuan",
+        "char_linmo"
+      ],
+      "beats": [
+        "许晋川观察到陈拓多次揽事引发轻微迟滞，并提醒其分担",
+        "老徐几乎没有帧率波动的稳定反而异常，引起许晋川持续关注",
+        "他想起林默曾短暂盯过老徐的眼神"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc15_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_bookstore",
+      "characters": [
+        "char_huangzhe_lead_programmer"
+      ],
+      "beats": [
+        "许晋川阅读《感官奇迹》，获得部分感知解释",
+        "他将可见错位命名为“帧落”，并记下“同帧？”的疑问"
+      ],
+      "foreshadow": [
+        "th_physics_as_engine",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    }
+  ]
+}

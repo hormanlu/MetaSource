@@ -1,0 +1,87 @@
+{
+  "id": "ch16",
+  "title": "新版本",
+  "summary": "晚间战斗组讨论引入MetaHuman做角色标准验证，徐知远输出完整而异常顺滑，林默因此加深怀疑。会后林默在落地窗前想起顾盼；同一时间顾盼在星辰大厦六楼处理AI出图，发现光影关系异常并在对面五十层人影边缘得到修正。夜深散场后林默再次写下“徐知远？”并意识到许晋川可能也看见了什么。",
+  "scenes": [
+    {
+      "id": "sc16_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_xuzhiyuan",
+        "char_chentuo",
+        "char_tangning",
+        "char_sunzheng"
+      ],
+      "beats": [
+        "战斗组晚间讨论MetaHuman验证，老徐强调换标准的链路代价",
+        "林默注意到老徐回答过于完整顺滑，怀疑加深"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc16_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "林默站在落地窗前想到顾盼与星辰大厦六楼",
+        "他对老徐状态“像换了一个人”的感受加重"
+      ],
+      "foreshadow": [
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc16_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_tower_6f_office",
+      "characters": [
+        "char_gupan"
+      ],
+      "beats": [
+        "顾盼处理AI出图，发现重复缓存与光影关系异常",
+        "她望向未来科技大厦人影边缘并看到轻微修正"
+      ],
+      "foreshadow": [
+        "th_physics_as_engine",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc16_04",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_huangzhe_lead_programmer"
+      ],
+      "beats": [
+        "林默写下“徐知远？”并怀疑许晋川也曾看到异常",
+        "夜里办公区安静如常，违和感未散"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    }
+  ]
+}

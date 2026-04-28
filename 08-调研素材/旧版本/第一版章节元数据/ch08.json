@@ -1,0 +1,158 @@
+{
+  "id": "ch08",
+  "title": "窗口",
+  "summary": "林默在未来科技项目组的“正常”节奏里醒得更早，却始终对徐知远前日失控的快速复原感到不安。徐知远像什么都没发生过一样，反而更耐心地帮助林默补齐训练场近战NPC越界的根因：战斗标签清理漏了一层。晨会中，制作人贺承安强调工具链异常已补丁修复、关键逻辑必须人工复核；主程也露面确认技术侧问题。会后平台工具组陆闻来补齐会话异常日志，流程极短、迅速归档。午后林默去园区咖啡店买冰咖啡，偶遇顾盼拍摄玻璃幕墙“窗口”矩阵，她用“聚光灯/主角”作比喻点到即止。夜里顾盼将照片发布并配文“城市有很多窗口”；同一张照片在公开平台被陌生人放大截取、转写成三十秒电子音频《窗口》，在另一座城市被某个听众点开后迅速关闭，无痕消失。",
+  "scenes": [
+    {
+      "id": "sc08_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_linmo_rental",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "林默夜里难以睡沉，对近期事件的“后台进程感”挥之不去"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc08_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_xuzhiyuan"
+      ],
+      "beats": [
+        "林默早到工区，发现徐知远已恢复如常",
+        "徐知远指出NPC越界根因：战斗标签清理漏层导致多蹿半步"
+      ],
+      "foreshadow": [
+        "th_physics_as_engine",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc08_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_meeting_room",
+      "characters": [
+        "char_linmo",
+        "char_huangzhe_producer",
+        "char_chentuo",
+        "char_huangzhe_lead_programmer"
+      ],
+      "beats": [
+        "晨会中贺承安强调工具链异常已修复，关键提交需人工复核",
+        "主程在晨会里确认资源加载侧问题"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc08_04",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_luwen",
+        "char_chentuo"
+      ],
+      "beats": [
+        "陆闻到工区补齐会话异常日志，流程短促且迅速归档闭环"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc08_05",
+      "start": "",
+      "end": "",
+      "location_id": "loc_corner_cafe",
+      "characters": [
+        "char_linmo",
+        "char_gupan"
+      ],
+      "beats": [
+        "林默午后买冰咖啡偶遇顾盼拍摄玻璃幕墙与窗格矩阵",
+        "顾盼用“窗口/聚光灯/主角”作比喻点到即止"
+      ],
+      "foreshadow": [
+        "th_ai_trace_artifacts",
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc08_06",
+      "start": "",
+      "end": "",
+      "location_id": "loc_linmo_rental",
+      "characters": [
+        "char_linmo",
+        "char_gupan"
+      ],
+      "beats": [
+        "夜里顾盼发布照片并配文“城市有很多窗口”，林默点赞后划过"
+      ],
+      "foreshadow": [
+        "th_ai_trace_artifacts",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc08_07",
+      "start": "",
+      "end": "",
+      "location_id": "loc_dark_studio",
+      "characters": [
+        "char_shadow_transcriber"
+      ],
+      "beats": [
+        "陌生人将照片放大截取并转写为三十秒电子音频《窗口》"
+      ],
+      "foreshadow": [
+        "th_ai_trace_artifacts",
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc08_08",
+      "start": "",
+      "end": "",
+      "location_id": "loc_other_city_unknown",
+      "characters": [
+        "char_shadow_listener"
+      ],
+      "beats": [
+        "另一座城市的听众点开音频《窗口》后迅速关闭并不留痕"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    }
+  ]
+}
+

@@ -1,0 +1,85 @@
+{
+  "id": "ch14",
+  "title": "桥上的人",
+  "summary": "许晋川翻到旧笔记本里“沈砚”的名字，回忆燧火项目中沈砚以结构视角收束混乱，并在项目口径变化后逐渐被默认承压而离开。多年后许晋川在项目阶段性收束后绩效为C，上天台出现严重失同步体验，被一位保洁老人以近处节拍引导回稳。此后他逐渐能从人身上捕捉到轻微错位，并将“桥上的人”作为对承压节点的命名，最终在本子上为沈砚补写“桥上”。",
+  "scenes": [
+    {
+      "id": "sc14_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_huangzhe_lead_programmer",
+        "char_linmo"
+      ],
+      "beats": [
+        "许晋川翻到“沈砚”的名字，回忆燧火与节点承压的起点",
+        "他意识到林默即将成为“最方便出口”的风险"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc14_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_meeting_room",
+      "characters": [
+        "char_huangzhe_lead_programmer",
+        "char_shenyan"
+      ],
+      "beats": [
+        "燧火夜会中沈砚拆解四类问题并重组工程路径",
+        "项目口径变化后，沈砚逐渐被默认承压并选择离开"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc14_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_rooftop",
+      "characters": [
+        "char_huangzhe_lead_programmer",
+        "char_rooftop_cleaner"
+      ],
+      "beats": [
+        "绩效为C后许晋川天台出现严重失同步与感知撕裂",
+        "保洁老人以节拍与近处指引帮助其回稳并提醒“桥上的人”"
+      ],
+      "foreshadow": [
+        "th_anomaly_value",
+        "th_node_social_stress",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc14_04",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_huangzhe_lead_programmer",
+        "char_linmo"
+      ],
+      "beats": [
+        "许晋川开始察觉承压者的轻微错位并调整分担方式",
+        "他在笔记本上为沈砚补写“桥上”并重新审视节点逻辑"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    }
+  ]
+}

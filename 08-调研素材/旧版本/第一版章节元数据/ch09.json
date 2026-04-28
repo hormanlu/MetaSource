@@ -1,0 +1,147 @@
+{
+  "id": "ch09",
+  "title": "静水之下",
+  "summary": "进入未来科技两周后，林默逐渐适应《皇者大世界》（H3）的细粒度分工与高强度秩序，认识到陈拓“在地上跑”与主程许晋川“在天上看”的差异。某天上午，工区因温启山去世新闻出现短暂骚动，讨论很快被版本节奏压回。临近下班，主程许晋川罕见提交一个小修复“state transition fallback”，补上边缘状态兜底，暗指极端坠落判定。傍晚顾盼主动约林默去咖啡馆，话题绕到温启山与“提携之恩是否该祭奠”，顾盼情绪被压得很深。夜里林默刷到带节奏短视频评论区，看到一条带顾盼同款头像的冲动评论随即消失；另一边顾盼在家翻出一张旧合照，因舆论攻击失控发言又立刻删除。暗处系统记录：异常情绪响应已记录，账号行为偏移校验中，目标纳入重点监测。",
+  "scenes": [
+    {
+      "id": "sc09_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_chentuo",
+        "char_huangzhe_lead_programmer"
+      ],
+      "beats": [
+        "林默两周适应未来科技节奏，理解H3项目规模与分工颗粒度",
+        "对比陈拓与主程许晋川的角色定位差异"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc09_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_chentuo",
+        "char_huangzhe_lead_programmer",
+        "char_zhaoyifan",
+        "char_tangning"
+      ],
+      "beats": [
+        "工区因温启山去世新闻出现轻微骚动与压低讨论",
+        "陈拓与许晋川都要求先把版本与热修过完"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc09_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_huangzhe_lead_programmer"
+      ],
+      "beats": [
+        "林默发现主程许晋川罕见提交小补丁：state transition fallback",
+        "补丁兜底极端情况下的状态切换卡死，隐指坠落判定边界"
+      ],
+      "foreshadow": [
+        "th_physics_as_engine",
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc09_04",
+      "start": "",
+      "end": "",
+      "location_id": "loc_corner_cafe",
+      "characters": [
+        "char_linmo",
+        "char_gupan"
+      ],
+      "beats": [
+        "顾盼主动约林默咖啡，情绪与状态明显异于往常",
+        "顾盼提出“提携之恩之人去世是否该祭奠”的问题"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_anomaly_value",
+        "th_ai_trace_artifacts"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc09_05",
+      "start": "",
+      "end": "",
+      "location_id": "loc_linmo_rental",
+      "characters": [
+        "char_linmo",
+        "char_gupan"
+      ],
+      "beats": [
+        "林默刷到带节奏视频，评论区出现与顾盼头像一致的冲动评论后瞬间消失",
+        "林默第一次感到自己与顾盼可能在看不见的线上碰头"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_anomaly_value",
+        "th_ai_trace_artifacts"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc09_06",
+      "start": "",
+      "end": "",
+      "location_id": "loc_gupan_home",
+      "characters": [
+        "char_gupan"
+      ],
+      "beats": [
+        "顾盼回家翻出一张旧合照，照片中男人面部被刻意处理模糊",
+        "顾盼冲动评论后立刻删除，意识到“太容易被看见”"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_anomaly_value",
+        "th_ai_trace_artifacts"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc09_07",
+      "start": "",
+      "end": "",
+      "location_id": "loc_unknown",
+      "characters": [
+        "char_gupan"
+      ],
+      "beats": [
+        "暗处系统记录：异常情绪响应已记录，账号行为偏移校验中，纳入重点监测名单"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    }
+  ]
+}
+

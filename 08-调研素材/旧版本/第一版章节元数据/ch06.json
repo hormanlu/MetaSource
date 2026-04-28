@@ -1,0 +1,155 @@
+{
+  "id": "ch06",
+  "title": "虚实之间",
+  "summary": "林默通过江月给的便签联系到《皇者大世界》制作人“贺”，得到周五去未来科技面试的明确安排。周三周四他在星辰大厦打卡但工区已人去楼空，只能高压刷题复盘。周五他进入未来科技大厦，在六十楼等待时从高处望见星辰十七楼工位出现疑似“未退库电脑”的错觉；技术面与制作人面围绕大世界分区、同步、性能与AI工具展开，林默给出基于失败复盘的实战答案。离开后他收到顾盼同意晚上见面的消息，并在街角咖啡店与顾盼聊天，短暂把逆光路人误认为江月。夜色中，星辰十七楼工位影像极快闪烁后恢复为空，地下深处生成系统记录：贴图缓存已修复，未引发异常。",
+  "scenes": [
+    {
+      "id": "sc06_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_linmo_rental",
+      "characters": [
+        "char_linmo",
+        "char_huangzhe_producer"
+      ],
+      "beats": [
+        "林默添加制作人“贺”微信并收到周五未来科技面试安排",
+        "林默切换到高压备战状态"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_mmo_consistency"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc06_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_interactive_17f",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "周三周四林默继续在星辰打卡，工区空荡",
+        "林默刷题复盘并整理服务器申请与技术笔记"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc06_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_60f_reception",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "林默进入未来科技大厦并在六十楼等候区等待",
+        "林默从高处望向星辰十七楼，误以为看到未退库的电脑影像"
+      ],
+      "foreshadow": [
+        "th_anomaly_value",
+        "th_physics_as_engine",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc06_04",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_meeting_room",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "技术面围绕UE分区加载、同步与性能优化细化追问",
+        "讨论AI编程工具（XClaw）对程序员价值的影响"
+      ],
+      "foreshadow": [
+        "th_physics_as_engine",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc06_05",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_meeting_room",
+      "characters": [
+        "char_linmo",
+        "char_huangzhe_producer",
+        "char_jiangyue"
+      ],
+      "beats": [
+        "制作人说明外包名额由江月打招呼临时加出",
+        "制作人透露江月曾是未来科技事业部副总裁"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_mmo_consistency"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc06_06",
+      "start": "",
+      "end": "",
+      "location_id": "loc_nearby_fast_food_shop",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "林默在快餐店等待下午时间，反复回想面试表现"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc06_07",
+      "start": "",
+      "end": "",
+      "location_id": "loc_corner_cafe",
+      "characters": [
+        "char_linmo",
+        "char_gupan"
+      ],
+      "beats": [
+        "林默与顾盼在咖啡店见面，谈面试、AI编程与江月之谜",
+        "林默将逆光路人误认为江月并自我解围"
+      ],
+      "foreshadow": [
+        "th_ai_trace_artifacts",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc06_08",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "夜色里未来科技大厦与星辰大厦形成强烈对比，林默走向地铁站",
+        "星辰十七楼工位影像极快闪烁后恢复为空，生成系统记录：贴图缓存已修复"
+      ],
+      "foreshadow": [
+        "th_physics_as_engine",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    }
+  ]
+}
+

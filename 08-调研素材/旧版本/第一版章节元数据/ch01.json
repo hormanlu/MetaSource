@@ -1,0 +1,32 @@
+{
+  "id": "ch01",
+  "title": "窗外异样",
+  "summary": "林默在濒死的《星际OL》项目组加班重构架构，因申请服务器与成本审计总监江月发生冲突。临近下班，他目睹对面未来科技大厦广告语短暂变更后又恢复，随后出现“日志被自动清除”的暗示。",
+  "scenes": [
+    {
+      "id": "sc01_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_interactive_17f",
+      "characters": [
+        "char_linmo",
+        "char_wangjianguo",
+        "char_jiangyue"
+      ],
+      "beats": [
+        "林默在星辰互娱17楼加班，项目濒死但他仍想积累大世界经验",
+        "老王通知江月要谈服务器申请",
+        "江月以资源利用率与成本审计视角否决扩容，要求技术报告",
+        "未来科技大厦广告语短暂变更为 We Control The Future 又恢复",
+        "暗示：相关系统日志被自动清除"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_anomaly_value",
+        "th_world_truth_delay",
+        "th_physics_as_engine"
+      ],
+      "payoff": []
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ch13",
+  "title": "节点",
+  "summary": "深夜的未来科技工区，许晋川反复翻看被删的《节点与社会应力》，判断江月借文章退重，并观察到林默在白板讨论中更关注徐知远。许晋川记下江月与林默的名字，在临走前看见林默笔记本上写着“徐知远？”。第二天战斗线需求评审会原本将任务分给林默，许晋川临时要求换人，最终由唐宁接下并推迟半天。许晋川意识到“节点”并非被指定，而是被默认出来，因而在关键时刻干预分配以避免林默过快承压。",
+  "scenes": [
+    {
+      "id": "sc13_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_huangzhe_lead_programmer",
+        "char_jiangyue",
+        "char_linmo",
+        "char_xuzhiyuan",
+        "char_chentuo",
+        "char_tangning"
+      ],
+      "beats": [
+        "许晋川反复翻看《节点与社会应力》截图，判断江月借文章退重",
+        "他远观战斗组讨论，注意到林默对徐知远的关注并在笔记本写下“徐知远？”",
+        "许晋川在旧本子里记录江月与林默，确认后者正在靠近节点风险"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc13_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_meeting_room_small",
+      "characters": [
+        "char_huangzhe_lead_programmer",
+        "char_chentuo",
+        "char_tangning",
+        "char_linmo"
+      ],
+      "beats": [
+        "战斗线需求评审会原本确定由林默接手新需求",
+        "许晋川临时要求换人，改由唐宁接手并推迟半天"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc13_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_huangzhe_lead_programmer",
+        "char_linmo"
+      ],
+      "beats": [
+        "许晋川回到工位反思节点形成逻辑，意识到“最合适”会默认把人推成节点",
+        "林默继续工作，表面平静却被安排变更轻微抽空"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    }
+  ]
+}

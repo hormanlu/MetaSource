@@ -1,0 +1,152 @@
+{
+  "id": "ch05",
+  "title": "绝处逢生",
+  "summary": "林默在出租屋里度过躺平后难得轻松的一夜，第二天上班却被HR拉群通知开会。十楼会议室里，江月当场宣布项目正式裁撤，即刻生效。众人各自散去，林默陷入失业焦虑与空转，刷群、刷朋友圈时被顾盼一条“早春”照片稍稍安慰。傍晚江月私信让他下班来找，她在办公室直言裁撤理由，却也认可林默的技术与文档，给出《皇者大世界》制作人的联系方式作为外包机会。林默走出写字楼，在墙角看到一株毛糙嫩芽，开玩笑说要给它做抗锯齿，转身时嫩芽绒毛竟悄然变得柔顺。",
+  "scenes": [
+    {
+      "id": "sc05_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_linmo_rental",
+      "characters": [
+        "char_linmo",
+        "char_gupan"
+      ],
+      "beats": [
+        "林默在出租屋躺平，回想顾盼与既视感带来的轻松与温柔"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_anomaly_value",
+        "th_ai_trace_artifacts"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc05_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_subway_carriage",
+      "characters": [
+        "char_linmo",
+        "char_gupan"
+      ],
+      "beats": [
+        "早高峰地铁未再遇见顾盼，林默略失落却收了心思去上班"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc05_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_interactive_17f",
+      "characters": [
+        "char_linmo",
+        "char_wangjianguo",
+        "char_suxiao",
+        "char_zhangyuanhang",
+        "char_hr_staff",
+        "char_jiangyue",
+        "char_starry_boss"
+      ],
+      "beats": [
+        "项目HR拉群并要求十分钟后去十楼7号会议室开会",
+        "四人乘电梯下楼，预感项目将迎来终局"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc05_04",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_tower_meeting_room_10f_7",
+      "characters": [
+        "char_linmo",
+        "char_wangjianguo",
+        "char_suxiao",
+        "char_zhangyuanhang",
+        "char_hr_staff",
+        "char_jiangyue",
+        "char_starry_boss"
+      ],
+      "beats": [
+        "会议室里老板铺垫，江月直接宣布项目裁撤即刻生效",
+        "老板提出一周缓冲期与离职补偿流程"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc05_05",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_interactive_17f",
+      "characters": [
+        "char_linmo",
+        "char_gupan",
+        "char_jiangyue"
+      ],
+      "beats": [
+        "众人散去，林默独留空隔间，焦虑空转并刷群刷朋友圈",
+        "顾盼朋友圈“早春”短暂安慰，随后江月私信让他下班去办公室"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_anomaly_value",
+        "th_ai_trace_artifacts"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc05_06",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_ops_office",
+      "characters": [
+        "char_linmo",
+        "char_jiangyue",
+        "char_huangzhe_producer"
+      ],
+      "beats": [
+        "江月解释裁撤逻辑并认可林默技术与文档",
+        "江月给出《皇者大世界》制作人联系方式作为外包机会"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc05_07",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_tower_outside_corner",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "林默离开写字楼，看到水泥缝里嫩芽并开玩笑说给它做抗锯齿",
+        "转身后嫩芽绒毛悄然变得紧致柔顺，像被开启抗锯齿"
+      ],
+      "foreshadow": [
+        "th_physics_as_engine",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    }
+  ]
+}

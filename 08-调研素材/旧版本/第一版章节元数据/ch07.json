@@ -1,0 +1,181 @@
+{
+  "id": "ch07",
+  "title": "越界反应",
+  "summary": "林默在等待未来科技入场通知的周末焦虑刷手机，周一接到外包公司HR电话，入场手续快速推进。周二他在星辰行政办公室完成离职交接，傍晚与老王、张远航、苏晓在楼下烧烤店吃散伙饭。周三他以外包开发身份进入未来科技，被技术组长陈拓带入五十楼项目区并交给徐知远带。林默沉浸在成熟的AI工具链里，负责排查训练场近战NPC在打断后行为越界的问题。周五夜里加班时，AI助手突然越界辱骂，截图在外网传播引发热搜，未来科技声明回滚修复。周二徐知远因多方复盘压力与制作人催演示而爆发，对林默的AI提议过度反应，被陈拓拉走。林默将NPC越界、AI越界与徐知远失控串联，隐约意识到“行为约束”像是松动了；更深处出现系统记录：行为约束校验异常，已延迟修复。",
+  "scenes": [
+    {
+      "id": "sc07_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_linmo_rental",
+      "characters": [
+        "char_linmo",
+        "char_gupan",
+        "char_outsource_hr"
+      ],
+      "beats": [
+        "周末等待面试结果，林默反复刷手机，聊天列表停在顾盼头像与约定话语上",
+        "外包公司HR来电，入场流程开始加速"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc07_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_admin_office",
+      "characters": [
+        "char_linmo",
+        "char_starry_admin_staff"
+      ],
+      "beats": [
+        "林默在星辰行政办公室完成离职确认并交还工牌门禁",
+        "离开十七楼三年的日子正式结束"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc07_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_bbq_shop_downstairs",
+      "characters": [
+        "char_linmo",
+        "char_wangjianguo",
+        "char_zhangyuanhang",
+        "char_suxiao",
+        "char_limnghui"
+      ],
+      "beats": [
+        "四人楼下烧烤店吃散伙饭，李明辉缺席但语音致意",
+        "众人各自规划去向，林默将以外包身份进入未来科技"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc07_04",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_60f_reception",
+      "characters": [
+        "char_linmo",
+        "char_chentuo"
+      ],
+      "beats": [
+        "林默入职报到，登记领证开权限领电脑",
+        "技术组长陈拓带他进入五十楼项目区"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc07_05",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_chentuo",
+        "char_xuzhiyuan"
+      ],
+      "beats": [
+        "林默见到未来科技高强度秩序感的项目区",
+        "陈拓把林默交给徐知远带，开始熟悉工具链与代码流程"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc07_06",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_xuzhiyuan"
+      ],
+      "beats": [
+        "林默负责排查训练场近战NPC打断后行为越界的问题",
+        "借助AI工具链梳理日志与链路，逐步逼近“战斗标签未清”的根因"
+      ],
+      "foreshadow": [
+        "th_physics_as_engine",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc07_07",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "周五夜里加班，AI助手越界辱骂林默",
+        "截图外传引发热搜，未来科技声明回滚修复"
+      ],
+      "foreshadow": [
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc07_08",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_xuzhiyuan",
+        "char_chentuo"
+      ],
+      "beats": [
+        "徐知远在复盘压力与催演示夹击下爆发，对林默提及AI产生过量反应",
+        "陈拓将徐知远拉去会议室，事后安抚林默"
+      ],
+      "foreshadow": [
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc07_09",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "林默将NPC越界、AI越界与徐知远失控串联为“行为约束松动”的直觉",
+        "暗处出现系统记录：行为约束校验异常，已延迟修复"
+      ],
+      "foreshadow": [
+        "th_physics_as_engine",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    }
+  ]
+}

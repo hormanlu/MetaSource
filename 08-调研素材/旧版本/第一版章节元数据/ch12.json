@@ -1,0 +1,137 @@
+{
+  "id": "ch12",
+  "title": "轻重之间",
+  "summary": "徐知远按月请假规律被战斗组私下调侃，林默隐约觉得过于像固定维护。陈拓临时让林默去三号会议室汇报状态回收模块，林默在孙铮、韩露、田珂与许晋川面前顶住问答，被要求老徐不在时负责兜底，并被拉进“H3-战斗模块临时同步”群。林默感到自己的节点突然变重，同时听见许晋川对他能力的更新判断。午后江月通过好友，约晚上七点半见面。高层餐厅里江月直入主题：她来是因林默未切割，她反问他是否认为文章写的是温启山；说完匆匆离开。林默被这次会面与节点逻辑撞击到，夜里写下“权重变重/变轻”的问题。临江市飞首尔航班备降新闻触发他对江月的担忧，情绪再次轻微失衡。",
+  "scenes": [
+    {
+      "id": "sc12_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_tangning",
+        "char_zhoukai",
+        "char_zhaoyifan",
+        "char_xuzhiyuan"
+      ],
+      "beats": [
+        "战斗组私下调侃徐知远按月请假规律，林默感到过于“固定维护”",
+        "陈拓通知林默十分钟后去三号会议室汇报模块"
+      ],
+      "foreshadow": [
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc12_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_meeting_room_3",
+      "characters": [
+        "char_linmo",
+        "char_chentuo",
+        "char_sunzheng",
+        "char_hanlu",
+        "char_tianke",
+        "char_huangzhe_lead_programmer"
+      ],
+      "beats": [
+        "林默临时汇报状态回收模块进度与风险",
+        "许晋川追问补偿失效影响，要求林默老徐不在时兜底"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc12_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_chentuo",
+        "char_zhoukai",
+        "char_sunzheng",
+        "char_hanlu",
+        "char_tianke"
+      ],
+      "beats": [
+        "林默被拉入“H3-战斗模块临时同步”群，负责状态同步对外沟通",
+        "林默感到自身节点连接数突然增加"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc12_04",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_chentuo",
+        "char_huangzhe_lead_programmer"
+      ],
+      "beats": [
+        "许晋川与陈拓简短确认林默能力与定位",
+        "江月通过好友并约当晚见面"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc12_05",
+      "start": "",
+      "end": "",
+      "location_id": "loc_high_end_restaurant",
+      "characters": [
+        "char_linmo",
+        "char_jiangyue"
+      ],
+      "beats": [
+        "江月直入主题：林默未切割、工作非施舍",
+        "江月反问文章是否写温启山后离场，留林默震荡"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc12_06",
+      "start": "",
+      "end": "",
+      "location_id": "loc_linmo_rental",
+      "characters": [
+        "char_linmo",
+        "char_jiangyue"
+      ],
+      "beats": [
+        "林默写下节点轻重的疑问",
+        "临江市飞首尔航班备降新闻触发对江月的担忧"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    }
+  ]
+}

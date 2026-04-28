@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "threads": [
+    {
+      "id": "th_example",
+      "title": "示例伏笔/剧情线",
+      "status": "open",
+      "seeded_in": [],
+      "paid_off_in": [],
+      "notes": ""
+    },
+    {
+      "id": "th_world_truth_delay",
+      "title": "真相延迟揭示（作者规则）",
+      "status": "open",
+      "seeded_in": [],
+      "paid_off_in": [],
+      "notes": "真相不能过早暴露；正文只能通过异常感与可解释事件逐步逼近。"
+    },
+    {
+      "id": "th_anomaly_value",
+      "title": "异常值与系统关注度",
+      "status": "open",
+      "seeded_in": [],
+      "paid_off_in": [],
+      "notes": "异常值随行为偏离、信息传播异常、认知突破、影响力扩大而上升。"
+    },
+    {
+      "id": "th_cleanup_masking",
+      "title": "清理伪装为现实现象",
+      "status": "open",
+      "seeded_in": [],
+      "paid_off_in": [],
+      "notes": "清理必须看似符合现实现象：意外/暴力/疾病/自杀等。"
+    },
+    {
+      "id": "th_physics_as_engine",
+      "title": "物理规律的引擎映射",
+      "status": "open",
+      "seeded_in": [],
+      "paid_off_in": [],
+      "notes": "觉醒者用游戏/引擎模型解释物理：延迟求值、采样、LOD、同步上限等；正文层需克制与可解释。"
+    },
+    {
+      "id": "th_mmo_consistency",
+      "title": "多人在线一致性与代价",
+      "status": "open",
+      "seeded_in": [],
+      "paid_off_in": [],
+      "notes": "EarthOL 作为多人在线系统，世界一致性优先；异常值、清理与社会结构用于维持整体稳定。"
+    },
+    {
+      "id": "th_ai_trace_artifacts",
+      "title": "NPC/人机痕迹学与识别训练",
+      "status": "open",
+      "seeded_in": [],
+      "paid_off_in": [],
+      "notes": "觉醒者通过统计与对照学习识别 NPC 高概率痕迹（ABCDE），并在特定触发条件下捕捉人机低频痕迹。"
+    },
+    {
+      "id": "th_civilization_graph",
+      "title": "文明贡献图谱（类区块链传承）",
+      "status": "open",
+      "seeded_in": [],
+      "paid_off_in": [],
+      "notes": "组织以分散载体保存文明密码网络；节点可为个人/群体/机制；跨节点校验，顺序错误可能得到假信息。"
+    },
+    {
+      "id": "th_node_social_stress",
+      "title": "节点与社会应力",
+      "status": "open",
+      "seeded_in": [],
+      "paid_off_in": [],
+      "notes": "节点不是荣耀而是负荷；节点消失后应力重分配，系统寻找新的承压点。"
+    }
+  ]
+}

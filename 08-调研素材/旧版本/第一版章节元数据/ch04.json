@@ -1,0 +1,123 @@
+{
+  "id": "ch04",
+  "title": "似曾相识",
+  "summary": "周一早高峰，林默在地铁与星辰大厦大厅连续遇到顾盼，并在午饭中确认“既视感”与上周四末班地铁的见面。周末他看了苏晓的直播并刷礼物。回到公司后，他帮张远航定位独立游戏的回滚bug根源。夜晚回家时，地铁空座位出现顾盼的短暂虚影，伴随“文件存储错误秒修”的提示。",
+  "scenes": [
+    {
+      "id": "sc04_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_subway_carriage",
+      "characters": [
+        "char_linmo",
+        "char_gupan"
+      ],
+      "beats": [
+        "周一早高峰地铁，林默看见顾盼并产生强烈既视感"
+      ],
+      "foreshadow": [
+        "th_ai_trace_artifacts",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc04_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_tower_lobby",
+      "characters": [
+        "char_linmo",
+        "char_gupan"
+      ],
+      "beats": [
+        "星辰大厦大厅偶遇顾盼，互相自我介绍",
+        "同乘电梯，林默再次产生既视感"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc04_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_interactive_17f",
+      "characters": [
+        "char_linmo",
+        "char_wangjianguo",
+        "char_suxiao",
+        "char_zhangyuanhang"
+      ],
+      "beats": [
+        "团队资源收缩后隔间气氛变化",
+        "张远航为bug焦躁，林默开始看内部活水岗位"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc04_04",
+      "start": "",
+      "end": "",
+      "location_id": "loc_new_mall_simple_meal",
+      "characters": [
+        "char_linmo",
+        "char_gupan"
+      ],
+      "beats": [
+        "午饭再遇顾盼并聊天",
+        "顾盼解释既视感并指出上周四末班地铁的见面",
+        "两人互加微信"
+      ],
+      "foreshadow": [
+        "th_ai_trace_artifacts",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc04_05",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_interactive_17f",
+      "characters": [
+        "char_linmo",
+        "char_zhangyuanhang",
+        "char_suxiao"
+      ],
+      "beats": [
+        "张远航求助云服务器迁移后角色回滚bug",
+        "林默定位为带宽/延迟导致预测校验不同步",
+        "既视感话题与bug形成类比"
+      ],
+      "foreshadow": [
+        "th_physics_as_engine"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc04_06",
+      "start": "",
+      "end": "",
+      "location_id": "loc_subway_carriage",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "夜班次地铁，对面空座位出现顾盼虚影瞬间消失",
+        "伴随提示：文件存储错误秒修"
+      ],
+      "foreshadow": [
+        "th_physics_as_engine",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    }
+  ]
+}

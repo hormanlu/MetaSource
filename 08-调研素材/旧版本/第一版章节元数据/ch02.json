@@ -1,0 +1,91 @@
+{
+  "id": "ch02",
+  "title": "各取所需",
+  "summary": "项目组五人都在“各取所需”。林默替李明辉违规代打卡；苏晓出现并继续以直播为中心；张远航私占服务器跑私活与林默冲突后暂时缓和。下午林默再度目击未来科技大厦广告语变更，且这次出现像素化锯齿。深夜离开时，地铁上一个灰卫衣女孩带来重复场景的违和感。章末暗示广告模块异常被二次修复并删除日志，且存在“观察者”。",
+  "scenes": [
+    {
+      "id": "sc02_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_interactive_17f",
+      "characters": [
+        "char_linmo",
+        "char_limnghui",
+        "char_suxiao"
+      ],
+      "beats": [
+        "项目组被安置在会议室隔间，五人开始各取所需",
+        "林默替李明辉使用 LocationHelper 代打卡并清理痕迹",
+        "苏晓以直播为中心，工作外包且早退不在乎处罚"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc02_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_interactive_17f",
+      "characters": [
+        "char_linmo",
+        "char_zhangyuanhang",
+        "char_wangjianguo"
+      ],
+      "beats": [
+        "林默发现三号服务器负载异常与陌生进程 game_server.exe",
+        "张远航承认用测试服跑私活并与林默争执",
+        "老王调停，双方暂时退让"
+      ],
+      "foreshadow": [
+        "th_ai_trace_artifacts"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc02_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_interactive_pantry",
+      "characters": [
+        "char_linmo",
+        "char_suxiao",
+        "char_zhangyuanhang",
+        "char_wangjianguo"
+      ],
+      "beats": [
+        "林默在茶水间再次看到广告语 Build 变 Control，出现像素化锯齿",
+        "张远航与苏晓未看到变化，各自给出故障/测试的现实解释",
+        "章末暗示：广告模块二次异常被彻底修复且日志删除，并出现观察者反应"
+      ],
+      "foreshadow": [
+        "th_physics_as_engine",
+        "th_world_truth_delay",
+        "th_anomaly_value",
+        "th_mmo_consistency"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc02_04",
+      "start": "",
+      "end": "",
+      "location_id": "loc_subway_carriage",
+      "characters": [
+        "char_linmo",
+        "char_gupan"
+      ],
+      "beats": [
+        "林默深夜下班乘地铁，看到灰卫衣女孩产生重复场景违和感"
+      ],
+      "foreshadow": [
+        "th_ai_trace_artifacts",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    }
+  ]
+}

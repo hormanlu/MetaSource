@@ -1,0 +1,124 @@
+{
+  "id": "ch03",
+  "title": "弄巧成拙",
+  "summary": "林默发出服务器申请报告，却迎来反噬：公司拒批新服务器并回收两台现有物理机，李明辉被HR以岗位调整方式优化离职。林默把一切归因于成本规则与资源清理，并在深夜的错觉与手机清理提示中听见“系统语气”的回声。",
+  "scenes": [
+    {
+      "id": "sc03_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_interactive_17f",
+      "characters": [
+        "char_linmo",
+        "char_wangjianguo",
+        "char_suxiao",
+        "char_zhangyuanhang",
+        "char_limnghui"
+      ],
+      "beats": [
+        "林默清理多版草稿后向江月发送服务器申请报告",
+        "隔间五人到齐，各自以不同方式为个人未来积累筹码",
+        "江月约谈服务器申请"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc03_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_ops_office",
+      "characters": [
+        "char_linmo",
+        "char_jiangyue"
+      ],
+      "beats": [
+        "江月明确：申请将提交公司决策，偏向不批",
+        "林默意识到服务器申请大概率无望"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc03_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_interactive_17f",
+      "characters": [
+        "char_linmo",
+        "char_limnghui",
+        "char_wangjianguo",
+        "char_hr_staff"
+      ],
+      "beats": [
+        "HR以岗位调整名义带走李明辉沟通并促成离职",
+        "林默产生强烈愧疚，担心申请触发了审计视线"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc03_04",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_ops_office",
+      "characters": [
+        "char_linmo",
+        "char_jiangyue"
+      ],
+      "beats": [
+        "公司决策：新服务器不批，现有物理机回收两台仅留三台空转",
+        "林默确认大世界方案失去落地环境"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc03_05",
+      "start": "",
+      "end": "",
+      "location_id": "loc_subway_carriage",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "地铁隧道灯光造成错觉，林默看见熟悉身影后一瞬消失"
+      ],
+      "foreshadow": [
+        "th_ai_trace_artifacts",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc03_06",
+      "start": "",
+      "end": "",
+      "location_id": "loc_linmo_rental",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "林默把公司裁撤与资源回收类比为工程清理",
+        "章末暗示：存在观察者与系统级记录口径"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    }
+  ]
+}
+

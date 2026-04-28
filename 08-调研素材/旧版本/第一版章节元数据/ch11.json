@@ -1,0 +1,167 @@
+{
+  "id": "ch11",
+  "title": "聚光灯下",
+  "summary": "温启山去世第五天，《节点与社会应力》迅速发酵并被大量转发解读。林默午休重读文章，越看越觉得写作视角过于“系统化”，并因署名“水中月”联想到江月。随即网络爆帖将“水中月”与江月绑定，舆论在工区低声蔓延；许晋川判断传播强度异常，提醒不要把项目组卷进去。暗处记录显示温启山节点失效后回流信号异常、承压分布重算并启动链路扫描。下午晚些时候，原文评论区被关闭，随后账号被标注封禁到2099年。与此同时，星辰互娱发布公告与江月切割，暗处记录显示江月外显度回落、掩码成立。夜里林默因顾盼与江月两条线同时发热：他搜索顾盼可能的作品账号并关注，最终鼓起勇气向江月发送添加好友请求。",
+  "scenes": [
+    {
+      "id": "sc11_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_canteen",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "《节点与社会应力》在多圈层发酵，林默午休重读文章",
+        "林默从署名“水中月”联想到江月，产生不安猜测"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc11_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_chentuo",
+        "char_huangzhe_lead_programmer",
+        "char_zhaoyifan",
+        "char_tangning",
+        "char_zhoukai"
+      ],
+      "beats": [
+        "爆帖将“水中月”与江月绑定，工区低声议论",
+        "陈拓要求别聊八卦，许晋川判断传播强度异常"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_mmo_consistency",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc11_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_wenqishan"
+      ],
+      "beats": [
+        "暗处记录：温启山节点失效后回流信号异常，应力重算并启动链路扫描"
+      ],
+      "foreshadow": [
+        "th_node_social_stress",
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc11_04",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_jiangyue"
+      ],
+      "beats": [
+        "原文评论区被关闭，随后账号被标注封禁到2099年",
+        "舆论因“被封”短暂再度升温"
+      ],
+      "foreshadow": [
+        "th_cleanup_masking",
+        "th_mmo_consistency",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc11_05",
+      "start": "",
+      "end": "",
+      "location_id": "loc_linmo_rental",
+      "characters": [
+        "char_linmo",
+        "char_zhangyuanhang",
+        "char_wangjianguo",
+        "char_suxiao",
+        "char_limnghui"
+      ],
+      "beats": [
+        "《星际OL》小群幸灾乐祸讨论江月被卷入风暴",
+        "林默难以站队，选择将群静音"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc11_06",
+      "start": "",
+      "end": "",
+      "location_id": "loc_starry_interactive_17f",
+      "characters": [
+        "char_jiangyue"
+      ],
+      "beats": [
+        "星辰互娱发布公告与江月切割",
+        "暗处记录：江月外显度回落、节点负载下降、掩码成立"
+      ],
+      "foreshadow": [
+        "th_cleanup_masking",
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc11_07",
+      "start": "",
+      "end": "",
+      "location_id": "loc_linmo_rental",
+      "characters": [
+        "char_linmo",
+        "char_gupan"
+      ],
+      "beats": [
+        "林默因顾盼的异常评论与作品风格，开始主动搜索她可能的账号并关注",
+        "暗处记录：顾盼观察等级上调"
+      ],
+      "foreshadow": [
+        "th_ai_trace_artifacts",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc11_08",
+      "start": "",
+      "end": "",
+      "location_id": "loc_linmo_rental",
+      "characters": [
+        "char_linmo",
+        "char_huangzhe_producer",
+        "char_jiangyue"
+      ],
+      "beats": [
+        "林默翻出贺承安此前推送的江月名片，最终发送添加好友申请",
+        "申请消息发出后无回应，林默关灯结束一天"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    }
+  ]
+}

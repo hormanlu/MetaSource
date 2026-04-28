@@ -1,0 +1,92 @@
+{
+  "id": "ch10",
+  "title": "暗流涌动",
+  "summary": "温启山去世第四天热度回落，未来科技项目组也逐渐不再讨论，但版本节奏照旧。林默在H3的庞大与切割中重新回看旧内容：午饭时读到《温启山：一个总是往前走一步的人》，从“陪桥边女孩两小时”“他们是人不是成本”等细节理解温启山的特殊，并注意到“临时更换晨跑路段”的变量。夜里在出租屋刷信息流，他发现散落在不同圈层的作品似乎用同一标签#多走一步低调悼念；更令他警觉的是，一张陌生代码截图背景里出现“state transition fallback”，与许晋川仓库提交高度一致。随后信息流推送《节点与社会应力》（水中月），以系统结构解释节点与应力重分配，林默将其与江月的目光联想，隐约感到温启山作为节点留下的空位正在引发更深层的连接震动。",
+  "scenes": [
+    {
+      "id": "sc10_01",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_50f_project_area",
+      "characters": [
+        "char_linmo",
+        "char_chentuo",
+        "char_huangzhe_lead_programmer"
+      ],
+      "beats": [
+        "温启山热度回落，项目组讨论减少但版本节奏不变",
+        "林默感受H3庞大与切割明确的双重压迫与踏实"
+      ],
+      "foreshadow": [
+        "th_mmo_consistency",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc10_02",
+      "start": "",
+      "end": "",
+      "location_id": "loc_future_tech_tower_canteen",
+      "characters": [
+        "char_linmo",
+        "char_wenqishan"
+      ],
+      "beats": [
+        "午饭时林默读到长文《温启山：一个总是往前走一步的人》",
+        "林默被“桥边陪坐”“他们是人不是成本”等细节击中",
+        "林默注意到变量：温启山临时更换晨跑路段"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_anomaly_value"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc10_03",
+      "start": "",
+      "end": "",
+      "location_id": "loc_linmo_rental",
+      "characters": [
+        "char_linmo",
+        "char_huangzhe_lead_programmer",
+        "char_gupan",
+        "char_shadow_transcriber"
+      ],
+      "beats": [
+        "夜里信息流分散到各圈层，各类创作者以隐晦方式表达悼念",
+        "林默发现标签#多走一步在多类作品中重复出现",
+        "陌生代码截图背景出现“state transition fallback”，与许晋川提交高度一致",
+        "林默联想到顾盼的画与桥边旧闻剪影"
+      ],
+      "foreshadow": [
+        "th_ai_trace_artifacts",
+        "th_anomaly_value",
+        "th_world_truth_delay"
+      ],
+      "payoff": []
+    },
+    {
+      "id": "sc10_04",
+      "start": "",
+      "end": "",
+      "location_id": "loc_linmo_rental",
+      "characters": [
+        "char_linmo"
+      ],
+      "beats": [
+        "林默读到《节点与社会应力》，将“节点/补位/应力重分配”与程序员视角对齐",
+        "林默想起江月那种穿透表层情绪的结构目光",
+        "林默感到温启山作为节点留下的空位正被看不见的线拉扯"
+      ],
+      "foreshadow": [
+        "th_world_truth_delay",
+        "th_anomaly_value",
+        "th_mmo_consistency"
+      ],
+      "payoff": []
+    }
+  ]
+}
+
